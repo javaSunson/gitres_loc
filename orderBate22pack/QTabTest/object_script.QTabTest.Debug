@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\dialog.o
+./debug\logindialog.o
+./debug\mandialog.o
+./debug\staticfiled.o
+./debug\salelog.o
+./debug\seatdialog.o
+./debug\helpdialog.o
+./debug\qrc_adminico.o
+./debug\moc_dialog.o
+./debug\moc_logindialog.o
+./debug\moc_mandialog.o
+./debug\moc_salelog.o
+./debug\moc_seatdialog.o
+./debug\moc_helpdialog.o
+);

@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\dialog.o
+./release\logindialog.o
+./release\mandialog.o
+./release\staticfiled.o
+./release\salelog.o
+./release\seatdialog.o
+./release\helpdialog.o
+./release\qrc_adminico.o
+./release\moc_dialog.o
+./release\moc_logindialog.o
+./release\moc_mandialog.o
+./release\moc_salelog.o
+./release\moc_seatdialog.o
+./release\moc_helpdialog.o
+);

@@ -1,0 +1,22 @@
+﻿2018.06.22 22:37:41.312 周五
+
+***客户信息:***
+孙先生
+12111
+12
+无
+2018.06.22 22:51:21.169 周五
+
+***客户信息:***
+曲婉婷
+1010101
+0
+没有什么不同
+mealname='焖竹笋' or mealname='葱包烩' or mealname='酱肘子' or mealname='酱肘子' or mealname='葱包烩' or mealname='黄焖鸡' or mealname='京酱肉丝' or mealname='酱肘子' or mealname='酱肘子' or 
+2018.06.22 23:03:22.821 周五
+
+***客户信息:***
+w
+1111
+234
+3sssssmealname='焖竹笋' or mealname='葱包烩' or mealname='酱肘子' or mealname='酱肘子' or mealname='葱包烩' or mealname='黄焖鸡' or mealname='京酱肉丝' or mealname='酱肘子' or mealname='酱肘子' or mealname='焖竹笋' or mealname='德州扒鸡' or 

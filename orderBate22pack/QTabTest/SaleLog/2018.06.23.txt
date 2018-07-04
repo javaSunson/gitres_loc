@@ -1,0 +1,13 @@
+2018.06.23 11:31:10.996 周六
+
+***客户信息:***
+猪
+2
+2
+2mealname='焖竹笋' or mealname='葱包烩' or mealname='酱肘子' or mealname='酱肘子' or mealname='葱包烩' or mealname='黄焖鸡' or mealname='京酱肉丝' or mealname='酱肘子' or mealname='酱肘子' or mealname='焖竹笋' or mealname='德州扒鸡' or mealname='老醋花生' or mealname='蛋炒饭' or 2018.06.23 11:59:37.309 周六
+
+***客户信息:***
+孙高峰
+144
+3
+不吃香菜mealname='焖竹笋' or mealname='葱包烩' or mealname='酱肘子' or mealname='酱肘子' or mealname='葱包烩' or mealname='黄焖鸡' or mealname='京酱肉丝' or mealname='酱肘子' or mealname='酱肘子' or mealname='焖竹笋' or mealname='德州扒鸡' or mealname='老醋花生' or mealname='蛋炒饭' or mealname='清炒苦瓜' or mealname='清炒苦瓜' or mealname='清炒苦瓜' or mealname='清炒苦瓜' or mealname='清炒木耳' or mealname='清炒木耳' or 
